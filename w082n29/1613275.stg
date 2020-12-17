@@ -1,0 +1,25 @@
+OBJECT_BASE 1613275.btg
+OBJECT KFIN.btg
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.216940 29.458098 6.3 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.216939 29.459042 6.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.216938 29.459987 6.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.216936 29.460931 6.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.216935 29.461876 6.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.216934 29.462820 6.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.216933 29.463765 6.2 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.217877 29.462821 5.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.217878 29.461877 5.9 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.217879 29.460932 6.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.217880 29.459987 6.0 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.217881 29.459043 6.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.217882 29.458098 6.1 0.00
+OBJECT_SHARED Models/Airport/water_rw_buoy.xml -81.217884 29.457154 6.2 0.00
+OBJECT KXFL.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.210508 29.457711 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.212742 29.460914 6.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.214615 29.472353 7.5 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.213630 29.474205 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.204768 29.471734 8.4 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.207204 29.460239 8.1 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.198886 29.468547 7.9 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -81.199136 29.467713 7.9 0.00
